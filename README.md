@@ -26,7 +26,7 @@
 
   💬 Ask me about **HTML, CSS, C++, Python, Java**
 
-  📫 How to reach me **ridoykum9@gmail.com**
+  📫 How to reach me **ridoyrkr@outlook.com**
 </span>
 
  
