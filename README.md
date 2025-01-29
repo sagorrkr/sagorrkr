@@ -19,7 +19,7 @@
 
 <span align="center">
   
-  🌱 I’m currently working on **Encryptrd Malware Classifications with Machine Learning**
+  🌱 I’m currently working on **Information Security**
 
   
   👨‍💻 All of my projects are available at [github.com/sagorrkr](github.com/sagorrkr)
