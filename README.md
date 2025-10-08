@@ -19,7 +19,7 @@
 
 <span align="center">
   
-  🌱 I’m currently working on **Information Security**
+  🌱 I’m currently working on **Visible light communication**
 
   
   👨‍💻 All of my projects are available at [github.com/sagorrkr](github.com/sagorrkr)
